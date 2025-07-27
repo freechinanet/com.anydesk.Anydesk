@@ -10,3 +10,4 @@ Type=Application
 Categories=Network;GTK;
 MimeType=x-scheme-handler/anydesk;
 StartupWMClass=anydesk
+
